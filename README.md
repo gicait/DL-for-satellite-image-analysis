@@ -2,6 +2,10 @@
 
 ## Introduction
 
+This includes short and minimalistic few examples covering fundamentals of Deep Learning for Satellite Image Analysis (Remote Sensing). Each chapter includes Python Jupyter Notebooks with example codes. And data used in example codes are also included in "data" folders.
+
+It's recommended to use GPU for these exercises. If GPU is not readily available, Google Colab (https://colab.research.google.com/) which provides free GPUs, can be used for these exercises.
+
 ## Libraries Used
 
 Libraries used this tutorial are as follows,
