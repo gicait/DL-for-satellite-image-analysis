@@ -2,6 +2,15 @@
 
 ## Introduction
 
+## Libraries Used
+
+Libraries used this tutorial are as follows,
+
+* numpy
+* matplotlib
+* scikit-learn
+* tensorflow (keras)
+
 ## Content
 
 Content of this tutorial is as follows,
@@ -28,6 +37,12 @@ Content of this tutorial is as follows,
   1) U-Net for Land Cover Mapping
 
 ## Pre-requisites
+
+Pre-requisites for this course are as follows,
+
+  * Basics of Python programing with Numpy
+  * Familiar with basics of satellite image analysis (remote sensing)
+  * Basic knowledge and theoretical understanding about machine learning
 
 ## Acknowledgements
 
