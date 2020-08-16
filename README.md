@@ -47,8 +47,7 @@ Content of this tutorial is as follows,
 Pre-requisites for this course are as follows,
 
   * Basics of Python programing with Numpy
-  * Familiar with basics of satellite image analysis (remote sensing)
-  * Basic knowledge and theoretical understanding about machine learning
+  * Understanding with linear algebra and other basic mathematics is a plus here
 
 ## Acknowledgements
 
