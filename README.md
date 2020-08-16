@@ -53,3 +53,6 @@ Pre-requisites for this course are as follows,
 Created by N. Lakmal Deshapriya for activites of Geoinformatics Center of Asian Institute of Technology, Thailand.
 
 ## References (for sample data used in exercises)
+* SpaceNet. (2018). Spacenet on Amazon Web Services (AWS). ”Datasets.” The SpaceNet Catalog. https://spacenetchallenge.github.io/datasets/datasetHomePage.html.
+* Huang, G. B., Ramesh, M., Berg, T., & Learned-Miller, E. (2007). Labeled faces in the wild: A database for studying face recognition in unconstrained environments (Tech. Rep. No. 07-49). University of Massachusetts, Amherst.
+* Boguszewski, A., Batorski, D., Ziemba-Jankowska, N., Zambrzycka, A., & Dziedzic, T. (2020). LandCover.ai: Dataset for Automatic Mapping of Buildings, Woodlands and Water from Aerial Imagery. ArXiv, abs/2005.02264.
