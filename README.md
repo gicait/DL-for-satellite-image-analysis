@@ -6,6 +6,8 @@ This includes short and minimalistic few examples covering fundamentals of Deep 
 
 It's recommended to use GPU for these exercises. If GPU is not readily available, Google Colab (https://colab.research.google.com/) which provides free GPUs, can be used for these exercises.
 
+These tutorials are consisted of example code segments explaining step by step process up to 2 applications of U-Net (building and land cover mapping) starting from basics  linear regression. Mathematics behind deep learning concepts is not explained here. And conceptual explanation with example code segments that can be adapt to any related problems are given and explained here.
+
 ## Libraries Used
 
 Libraries used this tutorial are as follows,
