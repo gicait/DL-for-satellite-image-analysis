@@ -4,7 +4,7 @@
 
 This includes short and minimalistic few examples covering fundamentals of Deep Learning for Satellite Image Analysis (Remote Sensing). Each chapter includes Python Jupyter Notebooks with example codes. And data used in example codes are also included in "data" folders.
 
-It's recommended to use computer with advanced GPU for these exercises. If GPU is not readily available, Google Colab (https://colab.research.google.com/) which provides free GPUs, can be used for these exercises.
+It's recommended to use computer with an advanced GPU for these exercises. If GPU is not readily available, Google Colab (https://colab.research.google.com/) which provides free GPUs, can be used for these exercises.
 
 These tutorials are consisted of example code segments explaining step by step process up to 2 applications of U-Net (building and land cover mapping) starting from basic  linear regression. Mathematics behind deep learning concepts is not explained here. And conceptual explanation with example code segments that can be adapt to any related problems are given and explained here.
 
