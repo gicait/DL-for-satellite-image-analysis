@@ -47,7 +47,7 @@ Content of this tutorial is as follows,
 Pre-requisites for this course are as follows,
 
   * Basics of Python programing with Numpy (numerical computing stuff)
-  * Understanding with linear algebra and other basic mathematics is a plus here
+  * Understanding about linear algebra and other basic mathematics is a plus here
 
 ## Acknowledgements
 
