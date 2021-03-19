@@ -51,7 +51,7 @@ Pre-requisites for this course are as follows,
 
 ## Acknowledgements
 
-Created by N. Lakmal Deshapriya for activites of Geoinformatics Center of Asian Institute of Technology, Thailand.
+Created by [N. Lakmal Deshapriya](https://github.com/lakmalnd) for activites of Geoinformatics Center of Asian Institute of Technology, Thailand.
 
 ## References (for sample data used in exercises)
 * SpaceNet. (2018). Spacenet on Amazon Web Services (AWS). ”Datasets.” The SpaceNet Catalog. https://spacenetchallenge.github.io/datasets/datasetHomePage.html.
